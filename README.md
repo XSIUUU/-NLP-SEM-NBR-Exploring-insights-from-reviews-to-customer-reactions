@@ -1,7 +1,3 @@
-# -NLP-SEM-NBR-Exploring-insights-from-reviews-to-customer-reactions
-This study used a two-stage method: SEM on 5,000 Yelp reviews to test how argument quality and source credibility influence usefulness, and negative binomial regression on 170,615 reviews to examine how usefulness and valence affect later engagement.
-
-
 # From Words to Action: Modeling the Cognitive and Behavior Paths from Review Features to Consumer Engagement
 
 This project implements a two-stage empirical analysis pipeline that explores how review content features and reviewer characteristics influence consumer engagement behavior on the Yelp platform. It integrates **Structural Equation Modeling (SEM)** and **Negative Binomial Regression (NBR)** using real-world data.
